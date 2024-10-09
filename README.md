@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **I started programming when I was 9 years old ✨😭**
 
+- Winner 2023 Hackathon
+
+- Winner 2023 programming completitions
+
+- 3. place international hackathon(2024)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/gergomezes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gergomezes_" height="30" width="40" /></a>
